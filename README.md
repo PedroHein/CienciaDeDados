@@ -1,4 +1,4 @@
-# ECM-514_EDA_AcidentesSP
+# Análise dos Óbitos em Acidentes de Trânsito em São Paulo: Explorando Padrões e Tendências
 Trabalho semestral de Ciência de Dados do Instituto Mauá de Tecnologia
 - Fernando Henriques Neto – 18.00931-0
 - Guilherme Sanches Rossi – 19.02404-5
